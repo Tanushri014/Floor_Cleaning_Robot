@@ -70,13 +70,22 @@ The mobile application is used to manually control the movement of the robot thr
 
 ---
 
-## Folder Structure
+## Project Structure
 
 ```bash
-floor-cleaning-robot/
+Floor_Cleaning_Robot/
 │
-├── README.md
-├── Arduino_Code/
-├── Images/
+├── Floor_Cleaning_Robot_Code/
+│   └── Arduino source code files
+│
 ├── Report/
-└── Videos/
+│   └── Floor cleaning robot project report
+│
+├── Result images/
+│   └── Images of prototype and final model
+│
+├── Result Videos/
+│   └── Working demonstration videos
+│
+└── README.md
+```
